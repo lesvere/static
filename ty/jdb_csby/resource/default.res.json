@@ -1,0 +1,1159 @@
+{
+	"groups": [
+		{
+			"keys": "SS_Animation_Atlas_01_json,SS_Animation_Atlas_01_png,SS_TST_Wave2_json,SS_TST_Wave2_png,SS_Animation_Atlas_02_json,SS_Animation_Atlas_02_png,SS_Animation_Atlas_11_png,SS_Animation_Atlas_11_json,SS_Animation_Atlas_03_json,SS_Animation_Atlas_03_png",
+			"name": "animation"
+		},
+		{
+			"keys": "battle_all_json",
+			"name": "battle"
+		},
+		{
+			"keys": "bundle_cn_all_json,GP_Broadcast_Font_cn_png,GP_Broadcast_Font_cn_fnt",
+			"name": "bundle_cn"
+		},
+		{
+			"keys": "bundle_en_all_json,GP_Broadcast_Font_en_fnt,GP_Broadcast_Font_en_png",
+			"name": "bundle_en"
+		},
+		{
+			"keys": "bundle_tw_all_json,GP_Broadcast_Font_tw_png,GP_Broadcast_Font_tw_fnt",
+			"name": "bundle_tw"
+		},
+		{
+			"keys": "GP_Broadcast_Font_th_fnt,GP_Broadcast_Font_th_png,bundle_th_all_json",
+			"name": "bundle_th"
+		},
+		{
+			"keys": "common_all_json",
+			"name": "common"
+		},
+		{
+			"keys": "Lobby01_ske_json,Lobby01_tex_json,Lobby01_tex_png,Lobby02_ske_json,Lobby02_tex_json,Lobby02_tex_png,Lobby03_ske_json,Lobby03_tex_json,Lobby03_tex_png,SS_Roulette_ske_json,SS_Roulette_tex_json,SS_Roulette_tex_png,UI_PromoteIcon_tex_png,UI_PromoteIcon_tex_json,UI_PromoteIcon_ske_json",
+			"name": "dragonBones"
+		},
+		{
+			"keys": "SS_Symbol_Atlas_01_json,SS_Symbol_Atlas_01_png,SS_Symbol_Atlas_02_json,SS_Symbol_Atlas_02_png,SS_Symbol_Atlas_03_json,SS_Symbol_Atlas_03_png,SS_Symbol_Atlas_101_json,SS_Symbol_Atlas_101_png,SS_Symbol_Atlas_201_json,SS_Symbol_Atlas_201_png,SS_Symbol_Atlas_102_png,SS_Symbol_Atlas_102_json,SS_Symbol_Atlas_103_png,SS_Symbol_Atlas_103_json",
+			"name": "fish"
+		},
+		{
+			"keys": "GP_Credit_Num1_fnt,GP_Credit_Num1_png,UI_Bet_Num1_fnt,UI_Bet_Num1_png,UI_Bet_Num2_fnt,UI_Bet_Num2_png,UI_Room_Num_fnt,UI_Room_Num_png,GP_Credit_Num2_fnt,GP_Credit_Num2_png,UI_Credit_Num_fnt,UI_Credit_Num_png,UI_Lobby_CreditNum_fnt,UI_Lobby_CreditNum_png,UI_Lobby_Bet_Num_fnt,UI_Lobby_Bet_Num_png,GP_Gun2_Num_fnt,GP_Gun2_Num_png,GP_LD_Pick_Num_fnt,GP_LD_Pick_Num_png,GP_LD_RedEnvelope_Num1_fnt,GP_LD_RedEnvelope_Num1_png,GP_LD_RedEnvelope_Num2_fnt,GP_LD_RedEnvelope_Num2_png,GP_LD_Win_Num_fnt,GP_LD_Win_Num_png,UI_Help_Num_fnt,UI_Help_Num_png,GP_Credit_Num3_fnt,GP_Credit_Num3_png,GP_Roulette_Bet_fnt,GP_Roulette_Bet_png,GP_Broadcast_Font_en_png,GP_Broadcast_Font_en_fnt",
+			"name": "font"
+		},
+		{
+			"keys": "help_all_json",
+			"name": "help"
+		},
+		{
+			"keys": "UI_Lobby_CreditNum_PHP_png,lobby_all_json",
+			"name": "lobby"
+		},
+		{
+			"keys": "Shine_json,Shine_png,GP_Bubble_json,GP_Bubble_png,Lobby_Bubble_png,Lobby_Bubble_json",
+			"name": "particle"
+		},
+		{
+			"keys": "preload_all_json,Sound_json,Zone_json,SS_Lobby_png,SS_Lobby_json",
+			"name": "preload"
+		},
+		{
+			"keys": "preloadBundle_cn_all_json",
+			"name": "preloadBundle_cn"
+		},
+		{
+			"keys": "preloadBundle_en_all_json",
+			"name": "preloadBundle_en"
+		},
+		{
+			"keys": "preloadBundle_tw_all_json",
+			"name": "preloadBundle_tw"
+		},
+		{
+			"keys": "preloadBundle_th_all_json",
+			"name": "preloadBundle_th"
+		},
+		{
+			"keys": "SE_Game_Background_01_mp3,SE_Game_Background_02_mp3,SE_Game_Background_03_mp3,SE_Lobby_Background_mp3,SE_Game_AutoFire_01_mp3,SE_Game_AutoFire_02_mp3,SE_Game_Coin1_mp3,SE_Game_Coin2_mp3,SE_Game_CoinGet_mp3,SE_Game_Fire1_mp3,SE_Game_Fire2_mp3,SE_Game_Fire3_01_mp3,SE_Game_Fire3_02_mp3,SE_Game_Fire3_03_mp3,SE_Game_GunChange1_mp3,SE_Game_GunChange2_01_mp3,SE_Game_GunChange2_02_mp3,SE_Game_GunChange3_01_mp3,SE_Game_GunChange3_02_mp3,SE_Game_Roulette_mp3,SE_Game_Transition_mp3,SE_Game_Bet_01_mp3,SE_Game_Bet_02_mp3,SE_ButtonPress_01_mp3,SE_ButtonPress_02_mp3,SE_MenuPress_01_mp3,SE_MenuPress_02_mp3,SE_Game_Background_04_mp3,SE_LD_Background_mp3,SE_Narration_CaiShen_01_cn_mp3,SE_Narration_CaiShen_02_cn_mp3,SE_Narration_CaiShen_02_en_mp3,SE_Narration_CaiShen_03_cn_mp3,SE_Narration_CaiShen_03_en_mp3,SE_Narration_CaiShen_04_cn_mp3,SE_Narration_CaiShen_04_en_mp3,SE_Narration_CaiShen_05_cn_mp3,SE_Narration_CaiShen_05_en_mp3,SE_Narration_CaiShen_06_cn_mp3,SE_Narration_HighSymbol_01_cn_mp3,SE_Narration_HighSymbol_01_en_mp3,SE_Narration_LowSymbol_F_01_mp3,SE_Narration_LowSymbol_F_02_mp3,SE_Narration_LowSymbol_F_03_mp3,SE_Narration_LowSymbol_F_04_mp3,SE_Narration_LowSymbol_F_05_mp3,SE_Narration_LowSymbol_M_01_mp3,SE_Narration_LowSymbol_M_02_mp3,SE_Narration_LowSymbol_M_03_mp3,SE_Narration_LowSymbol_M_04_mp3,SE_Narration_MediumSymbol_F_05_cn_mp3,SE_Narration_MediumSymbol_F_09_en_mp3,SE_Narration_MediumSymbol_M_05_cn_mp3,SE_LD_Click_mp3,SE_LD_End_mp3,SE_LD_Hit_mp3,SE_Narration_CaiShenFaFaFa_01_cn_mp3,SE_Narration_MediumSymbol_F_06_cn_mp3,SE_Narration_MediumSymbol_F_08_en_mp3,SE_Narration_MediumSymbol_F_10_en_mp3,SE_Narration_MediumSymbol_F_11_cn_mp3,SE_Narration_MediumSymbol_F_11_en_mp3,SE_Narration_MediumSymbol_F_12_cn_mp3,SE_Narration_MediumSymbol_F_12_en_mp3,SE_Narration_MediumSymbol_F_13_cn_mp3,SE_Narration_MediumSymbol_F_13_en_mp3,SE_Narration_MediumSymbol_F_14_cn_mp3,SE_Narration_MediumSymbol_F_14_en_mp3,SE_Narration_MediumSymbol_F_15_cn_mp3,SE_Narration_MediumSymbol_M_01_en_mp3,SE_Narration_MediumSymbol_M_02_cn_mp3,SE_Narration_MediumSymbol_M_03_cn_mp3,SE_Narration_MediumSymbol_M_03_en_mp3,SE_Narration_MediumSymbol_M_06_en_mp3,SE_Narration_MediumSymbol_M_07_cn_mp3,SE_Narration_MediumSymbol_M_08_cn_mp3,SE_Game_LuckyRoll_01_mp3,SE_Game_LuckyRoll_02_mp3,SE_Game_LuckyRoll_03_mp3,SE_Game_LuckyRoll_04_mp3,SE_Game_LuckyRoll_End_mp3,SE_Game_LuckyRoll_Background_mp3,SE_Game_LuckyRoll_Hit_mp3,SE_Narration_CaiShen_01_en_mp3,SE_Narration_LuckyRoll_cn_mp3",
+			"name": "sound"
+		},
+		{
+			"keys": "BattleBG_json,BossAndWeaponFC_json,Bullet_json,Coin_json,Effect_json,Fish_json,FishPath_json,FishTeam_json,Fort_json,HighFC_json,LowFC_json,Medals_json,MiddleFC_json,MovieClipFX_json,ParticleFX_json,Score_json,ShaderFX_json,ShakeFX_json,SpeakSoundGroup_json,SpecialEffect_json,Bet_json,LuckyDraw_json,Sound_json,Zone_json,BulletType_json",
+			"name": "tableJson"
+		}
+	],
+	"resources": [
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "assets/tableJson/Fish.json",
+			"type": "json",
+			"name": "Fish_json"
+		},
+		{
+			"url": "assets/tableJson/Bullet.json",
+			"type": "json",
+			"name": "Bullet_json"
+		},
+		{
+			"url": "assets/tableJson/Effect.json",
+			"type": "json",
+			"name": "Effect_json"
+		},
+		{
+			"url": "assets/tableJson/Sound.json",
+			"type": "json",
+			"name": "Sound_json"
+		},
+		{
+			"url": "assets/tableJson/HighFC.json",
+			"type": "json",
+			"name": "HighFC_json"
+		},
+		{
+			"url": "assets/tableJson/LowFC.json",
+			"type": "json",
+			"name": "LowFC_json"
+		},
+		{
+			"url": "assets/tableJson/MiddleFC.json",
+			"type": "json",
+			"name": "MiddleFC_json"
+		},
+		{
+			"url": "assets/tableJson/FishPath.json",
+			"type": "json",
+			"name": "FishPath_json"
+		},
+		{
+			"url": "assets/tableJson/FishTeam.json",
+			"type": "json",
+			"name": "FishTeam_json"
+		},
+		{
+			"url": "assets/tableJson/Score.json",
+			"type": "json",
+			"name": "Score_json"
+		},
+		{
+			"url": "assets/tableJson/MovieClipFX.json",
+			"type": "json",
+			"name": "MovieClipFX_json"
+		},
+		{
+			"url": "assets/tableJson/ParticleFX.json",
+			"type": "json",
+			"name": "ParticleFX_json"
+		},
+		{
+			"url": "assets/tableJson/ShaderFX.json",
+			"type": "json",
+			"name": "ShaderFX_json"
+		},
+		{
+			"url": "assets/tableJson/ShakeFX.json",
+			"type": "json",
+			"name": "ShakeFX_json"
+		},
+		{
+			"url": "assets/font/GP_Credit_Num1.fnt",
+			"type": "font",
+			"name": "GP_Credit_Num1_fnt"
+		},
+		{
+			"url": "assets/font/GP_Credit_Num1.png",
+			"type": "image",
+			"name": "GP_Credit_Num1_png"
+		},
+		{
+			"url": "assets/font/UI_Bet_Num1.fnt",
+			"type": "font",
+			"name": "UI_Bet_Num1_fnt"
+		},
+		{
+			"url": "assets/font/UI_Bet_Num1.png",
+			"type": "image",
+			"name": "UI_Bet_Num1_png"
+		},
+		{
+			"url": "assets/font/UI_Bet_Num2.fnt",
+			"type": "font",
+			"name": "UI_Bet_Num2_fnt"
+		},
+		{
+			"url": "assets/font/UI_Bet_Num2.png",
+			"type": "image",
+			"name": "UI_Bet_Num2_png"
+		},
+		{
+			"url": "assets/tableJson/Coin.json",
+			"type": "json",
+			"name": "Coin_json"
+		},
+		{
+			"url": "assets/fish/SS_Symbol_Atlas_01.json",
+			"type": "json",
+			"name": "SS_Symbol_Atlas_01_json"
+		},
+		{
+			"url": "assets/fish/SS_Symbol_Atlas_01.png",
+			"type": "image",
+			"name": "SS_Symbol_Atlas_01_png"
+		},
+		{
+			"url": "assets/fish/SS_Symbol_Atlas_02.json",
+			"type": "json",
+			"name": "SS_Symbol_Atlas_02_json"
+		},
+		{
+			"url": "assets/fish/SS_Symbol_Atlas_02.png",
+			"type": "image",
+			"name": "SS_Symbol_Atlas_02_png"
+		},
+		{
+			"url": "assets/animation/SS_Animation_Atlas_01.json",
+			"type": "json",
+			"name": "SS_Animation_Atlas_01_json"
+		},
+		{
+			"url": "assets/animation/SS_Animation_Atlas_01.png",
+			"type": "image",
+			"name": "SS_Animation_Atlas_01_png"
+		},
+		{
+			"url": "assets/font/UI_Room_Num.fnt",
+			"type": "font",
+			"name": "UI_Room_Num_fnt"
+		},
+		{
+			"url": "assets/font/UI_Room_Num.png",
+			"type": "image",
+			"name": "UI_Room_Num_png"
+		},
+		{
+			"url": "assets/font/GP_Credit_Num2.fnt",
+			"type": "font",
+			"name": "GP_Credit_Num2_fnt"
+		},
+		{
+			"url": "assets/font/GP_Credit_Num2.png",
+			"type": "image",
+			"name": "GP_Credit_Num2_png"
+		},
+		{
+			"url": "assets/font/UI_Credit_Num.fnt",
+			"type": "font",
+			"name": "UI_Credit_Num_fnt"
+		},
+		{
+			"url": "assets/font/UI_Credit_Num.png",
+			"type": "image",
+			"name": "UI_Credit_Num_png"
+		},
+		{
+			"url": "assets/tableJson/BattleBG.json",
+			"type": "json",
+			"name": "BattleBG_json"
+		},
+		{
+			"url": "assets/animation/SS_TST_Wave2.json",
+			"type": "json",
+			"name": "SS_TST_Wave2_json"
+		},
+		{
+			"url": "assets/animation/SS_TST_Wave2.png",
+			"type": "image",
+			"name": "SS_TST_Wave2_png"
+		},
+		{
+			"url": "assets/tableJson/Fort.json",
+			"type": "json",
+			"name": "Fort_json"
+		},
+		{
+			"url": "assets/particle/Shine.json",
+			"type": "json",
+			"name": "Shine_json"
+		},
+		{
+			"url": "assets/particle/Shine.png",
+			"type": "image",
+			"name": "Shine_png"
+		},
+		{
+			"url": "assets/tableJson/BossAndWeaponFC.json",
+			"type": "json",
+			"name": "BossAndWeaponFC_json"
+		},
+		{
+			"url": "assets/fish/SS_Symbol_Atlas_03.png",
+			"type": "image",
+			"name": "SS_Symbol_Atlas_03_png"
+		},
+		{
+			"url": "assets/fish/SS_Symbol_Atlas_03.json",
+			"type": "json",
+			"name": "SS_Symbol_Atlas_03_json"
+		},
+		{
+			"url": "assets/fish/SS_Symbol_Atlas_101.png",
+			"type": "image",
+			"name": "SS_Symbol_Atlas_101_png"
+		},
+		{
+			"url": "assets/fish/SS_Symbol_Atlas_201.png",
+			"type": "image",
+			"name": "SS_Symbol_Atlas_201_png"
+		},
+		{
+			"url": "assets/fish/SS_Symbol_Atlas_201.json",
+			"type": "json",
+			"name": "SS_Symbol_Atlas_201_json"
+		},
+		{
+			"url": "assets/fish/SS_Symbol_Atlas_101.json",
+			"type": "json",
+			"name": "SS_Symbol_Atlas_101_json"
+		},
+		{
+			"url": "assets/font/UI_Lobby_CreditNum.fnt",
+			"type": "font",
+			"name": "UI_Lobby_CreditNum_fnt"
+		},
+		{
+			"url": "assets/font/UI_Lobby_CreditNum.png",
+			"type": "image",
+			"name": "UI_Lobby_CreditNum_png"
+		},
+		{
+			"url": "assets/sound/SE_Game_Background_01.mp3",
+			"type": "sound",
+			"name": "SE_Game_Background_01_mp3"
+		},
+		{
+			"url": "assets/sound/SE_Game_Background_02.mp3",
+			"type": "sound",
+			"name": "SE_Game_Background_02_mp3"
+		},
+		{
+			"url": "assets/sound/SE_Game_Background_03.mp3",
+			"type": "sound",
+			"name": "SE_Game_Background_03_mp3"
+		},
+		{
+			"url": "assets/sound/SE_Lobby_Background.mp3",
+			"type": "sound",
+			"name": "SE_Lobby_Background_mp3"
+		},
+		{
+			"url": "assets/font/UI_Lobby_Bet_Num.fnt",
+			"type": "font",
+			"name": "UI_Lobby_Bet_Num_fnt"
+		},
+		{
+			"url": "assets/font/UI_Lobby_Bet_Num.png",
+			"type": "image",
+			"name": "UI_Lobby_Bet_Num_png"
+		},
+		{
+			"url": "assets/tableJson/Zone.json",
+			"type": "json",
+			"name": "Zone_json"
+		},
+		{
+			"url": "assets/animation/SS_Animation_Atlas_02.json",
+			"type": "json",
+			"name": "SS_Animation_Atlas_02_json"
+		},
+		{
+			"url": "assets/animation/SS_Animation_Atlas_02.png",
+			"type": "image",
+			"name": "SS_Animation_Atlas_02_png"
+		},
+		{
+			"url": "assets/font/GP_LD_Pick_Num.fnt",
+			"type": "font",
+			"name": "GP_LD_Pick_Num_fnt"
+		},
+		{
+			"url": "assets/font/GP_LD_Pick_Num.png",
+			"type": "image",
+			"name": "GP_LD_Pick_Num_png"
+		},
+		{
+			"url": "assets/font/GP_LD_RedEnvelope_Num1.fnt",
+			"type": "font",
+			"name": "GP_LD_RedEnvelope_Num1_fnt"
+		},
+		{
+			"url": "assets/font/GP_LD_RedEnvelope_Num1.png",
+			"type": "image",
+			"name": "GP_LD_RedEnvelope_Num1_png"
+		},
+		{
+			"url": "assets/font/GP_LD_RedEnvelope_Num2.fnt",
+			"type": "font",
+			"name": "GP_LD_RedEnvelope_Num2_fnt"
+		},
+		{
+			"url": "assets/font/GP_LD_RedEnvelope_Num2.png",
+			"type": "image",
+			"name": "GP_LD_RedEnvelope_Num2_png"
+		},
+		{
+			"url": "assets/font/GP_LD_Win_Num.fnt",
+			"type": "font",
+			"name": "GP_LD_Win_Num_fnt"
+		},
+		{
+			"url": "assets/font/GP_LD_Win_Num.png",
+			"type": "image",
+			"name": "GP_LD_Win_Num_png"
+		},
+		{
+			"url": "assets/font/GP_Gun2_Num.fnt",
+			"type": "font",
+			"name": "GP_Gun2_Num_fnt"
+		},
+		{
+			"url": "assets/font/GP_Gun2_Num.png",
+			"type": "image",
+			"name": "GP_Gun2_Num_png"
+		},
+		{
+			"url": "assets/sound/SE_Game_AutoFire_01.mp3",
+			"type": "sound",
+			"name": "SE_Game_AutoFire_01_mp3"
+		},
+		{
+			"url": "assets/sound/SE_Game_AutoFire_02.mp3",
+			"type": "sound",
+			"name": "SE_Game_AutoFire_02_mp3"
+		},
+		{
+			"url": "assets/sound/SE_Game_Coin1.mp3",
+			"type": "sound",
+			"name": "SE_Game_Coin1_mp3"
+		},
+		{
+			"url": "assets/sound/SE_Game_Coin2.mp3",
+			"type": "sound",
+			"name": "SE_Game_Coin2_mp3"
+		},
+		{
+			"url": "assets/sound/SE_Game_CoinGet.mp3",
+			"type": "sound",
+			"name": "SE_Game_CoinGet_mp3"
+		},
+		{
+			"url": "assets/sound/SE_Game_Fire1.mp3",
+			"type": "sound",
+			"name": "SE_Game_Fire1_mp3"
+		},
+		{
+			"url": "assets/sound/SE_Game_Fire2.mp3",
+			"type": "sound",
+			"name": "SE_Game_Fire2_mp3"
+		},
+		{
+			"url": "assets/sound/SE_Game_Fire3_01.mp3",
+			"type": "sound",
+			"name": "SE_Game_Fire3_01_mp3"
+		},
+		{
+			"url": "assets/sound/SE_Game_Fire3_02.mp3",
+			"type": "sound",
+			"name": "SE_Game_Fire3_02_mp3"
+		},
+		{
+			"url": "assets/sound/SE_Game_Fire3_03.mp3",
+			"type": "sound",
+			"name": "SE_Game_Fire3_03_mp3"
+		},
+		{
+			"url": "assets/sound/SE_Game_GunChange1.mp3",
+			"type": "sound",
+			"name": "SE_Game_GunChange1_mp3"
+		},
+		{
+			"url": "assets/sound/SE_Game_GunChange2_01.mp3",
+			"type": "sound",
+			"name": "SE_Game_GunChange2_01_mp3"
+		},
+		{
+			"url": "assets/sound/SE_Game_GunChange2_02.mp3",
+			"type": "sound",
+			"name": "SE_Game_GunChange2_02_mp3"
+		},
+		{
+			"url": "assets/sound/SE_Game_GunChange3_01.mp3",
+			"type": "sound",
+			"name": "SE_Game_GunChange3_01_mp3"
+		},
+		{
+			"url": "assets/sound/SE_Game_GunChange3_02.mp3",
+			"type": "sound",
+			"name": "SE_Game_GunChange3_02_mp3"
+		},
+		{
+			"url": "assets/sound/SE_Game_Roulette.mp3",
+			"type": "sound",
+			"name": "SE_Game_Roulette_mp3"
+		},
+		{
+			"url": "assets/sound/SE_Game_Transition.mp3",
+			"type": "sound",
+			"name": "SE_Game_Transition_mp3"
+		},
+		{
+			"url": "assets/sound/SE_Game_Bet_01.mp3",
+			"type": "sound",
+			"name": "SE_Game_Bet_01_mp3"
+		},
+		{
+			"url": "assets/sound/SE_Game_Bet_02.mp3",
+			"type": "sound",
+			"name": "SE_Game_Bet_02_mp3"
+		},
+		{
+			"url": "assets/sound/SE_ButtonPress_01.mp3",
+			"type": "sound",
+			"name": "SE_ButtonPress_01_mp3"
+		},
+		{
+			"url": "assets/sound/SE_ButtonPress_02.mp3",
+			"type": "sound",
+			"name": "SE_ButtonPress_02_mp3"
+		},
+		{
+			"url": "assets/sound/SE_MenuPress_01.mp3",
+			"type": "sound",
+			"name": "SE_MenuPress_01_mp3"
+		},
+		{
+			"url": "assets/sound/SE_MenuPress_02.mp3",
+			"type": "sound",
+			"name": "SE_MenuPress_02_mp3"
+		},
+		{
+			"url": "assets/sound/SE_Game_Background_04.mp3",
+			"type": "sound",
+			"name": "SE_Game_Background_04_mp3"
+		},
+		{
+			"url": "assets/tableJson/Medals.json",
+			"type": "json",
+			"name": "Medals_json"
+		},
+		{
+			"url": "assets/particle/GP_Bubble.json",
+			"type": "json",
+			"name": "GP_Bubble_json"
+		},
+		{
+			"url": "assets/particle/GP_Bubble.png",
+			"type": "image",
+			"name": "GP_Bubble_png"
+		},
+		{
+			"url": "assets/font/UI_Help_Num.fnt",
+			"type": "font",
+			"name": "UI_Help_Num_fnt"
+		},
+		{
+			"url": "assets/font/UI_Help_Num.png",
+			"type": "image",
+			"name": "UI_Help_Num_png"
+		},
+		{
+			"url": "assets/sound/SE_LD_Background.mp3",
+			"type": "sound",
+			"name": "SE_LD_Background_mp3"
+		},
+		{
+			"url": "assets/sound/SE_Narration_CaiShen_01_cn.mp3",
+			"type": "sound",
+			"name": "SE_Narration_CaiShen_01_cn_mp3"
+		},
+		{
+			"url": "assets/sound/SE_Narration_CaiShen_02_cn.mp3",
+			"type": "sound",
+			"name": "SE_Narration_CaiShen_02_cn_mp3"
+		},
+		{
+			"url": "assets/sound/SE_Narration_CaiShen_02_en.mp3",
+			"type": "sound",
+			"name": "SE_Narration_CaiShen_02_en_mp3"
+		},
+		{
+			"url": "assets/sound/SE_Narration_CaiShen_03_cn.mp3",
+			"type": "sound",
+			"name": "SE_Narration_CaiShen_03_cn_mp3"
+		},
+		{
+			"url": "assets/sound/SE_Narration_CaiShen_03_en.mp3",
+			"type": "sound",
+			"name": "SE_Narration_CaiShen_03_en_mp3"
+		},
+		{
+			"url": "assets/sound/SE_Narration_CaiShen_04_cn.mp3",
+			"type": "sound",
+			"name": "SE_Narration_CaiShen_04_cn_mp3"
+		},
+		{
+			"url": "assets/sound/SE_Narration_CaiShen_04_en.mp3",
+			"type": "sound",
+			"name": "SE_Narration_CaiShen_04_en_mp3"
+		},
+		{
+			"url": "assets/sound/SE_Narration_CaiShen_05_cn.mp3",
+			"type": "sound",
+			"name": "SE_Narration_CaiShen_05_cn_mp3"
+		},
+		{
+			"url": "assets/sound/SE_Narration_CaiShen_05_en.mp3",
+			"type": "sound",
+			"name": "SE_Narration_CaiShen_05_en_mp3"
+		},
+		{
+			"url": "assets/sound/SE_Narration_CaiShen_06_cn.mp3",
+			"type": "sound",
+			"name": "SE_Narration_CaiShen_06_cn_mp3"
+		},
+		{
+			"url": "assets/sound/SE_Narration_HighSymbol_01_cn.mp3",
+			"type": "sound",
+			"name": "SE_Narration_HighSymbol_01_cn_mp3"
+		},
+		{
+			"url": "assets/sound/SE_Narration_HighSymbol_01_en.mp3",
+			"type": "sound",
+			"name": "SE_Narration_HighSymbol_01_en_mp3"
+		},
+		{
+			"url": "assets/sound/SE_Narration_LowSymbol_F_01.mp3",
+			"type": "sound",
+			"name": "SE_Narration_LowSymbol_F_01_mp3"
+		},
+		{
+			"url": "assets/sound/SE_Narration_LowSymbol_F_02.mp3",
+			"type": "sound",
+			"name": "SE_Narration_LowSymbol_F_02_mp3"
+		},
+		{
+			"url": "assets/sound/SE_Narration_LowSymbol_F_03.mp3",
+			"type": "sound",
+			"name": "SE_Narration_LowSymbol_F_03_mp3"
+		},
+		{
+			"url": "assets/sound/SE_Narration_LowSymbol_F_04.mp3",
+			"type": "sound",
+			"name": "SE_Narration_LowSymbol_F_04_mp3"
+		},
+		{
+			"url": "assets/sound/SE_Narration_LowSymbol_F_05.mp3",
+			"type": "sound",
+			"name": "SE_Narration_LowSymbol_F_05_mp3"
+		},
+		{
+			"url": "assets/sound/SE_Narration_LowSymbol_M_01.mp3",
+			"type": "sound",
+			"name": "SE_Narration_LowSymbol_M_01_mp3"
+		},
+		{
+			"url": "assets/sound/SE_Narration_LowSymbol_M_02.mp3",
+			"type": "sound",
+			"name": "SE_Narration_LowSymbol_M_02_mp3"
+		},
+		{
+			"url": "assets/sound/SE_Narration_LowSymbol_M_03.mp3",
+			"type": "sound",
+			"name": "SE_Narration_LowSymbol_M_03_mp3"
+		},
+		{
+			"url": "assets/sound/SE_Narration_LowSymbol_M_04.mp3",
+			"type": "sound",
+			"name": "SE_Narration_LowSymbol_M_04_mp3"
+		},
+		{
+			"url": "assets/sound/SE_Narration_MediumSymbol_F_05_cn.mp3",
+			"type": "sound",
+			"name": "SE_Narration_MediumSymbol_F_05_cn_mp3"
+		},
+		{
+			"url": "assets/sound/SE_Narration_MediumSymbol_F_09_en.mp3",
+			"type": "sound",
+			"name": "SE_Narration_MediumSymbol_F_09_en_mp3"
+		},
+		{
+			"url": "assets/sound/SE_Narration_MediumSymbol_M_05_cn.mp3",
+			"type": "sound",
+			"name": "SE_Narration_MediumSymbol_M_05_cn_mp3"
+		},
+		{
+			"url": "assets/sound/SE_LD_Hit.mp3",
+			"type": "sound",
+			"name": "SE_LD_Hit_mp3"
+		},
+		{
+			"url": "assets/sound/SE_LD_End.mp3",
+			"type": "sound",
+			"name": "SE_LD_End_mp3"
+		},
+		{
+			"url": "assets/tableJson/SpecialEffect.json",
+			"type": "json",
+			"name": "SpecialEffect_json"
+		},
+		{
+			"url": "assets/sound/SE_LD_Click.mp3",
+			"type": "sound",
+			"name": "SE_LD_Click_mp3"
+		},
+		{
+			"url": "assets/sound/SE_Narration_MediumSymbol_F_06_cn.mp3",
+			"type": "sound",
+			"name": "SE_Narration_MediumSymbol_F_06_cn_mp3"
+		},
+		{
+			"url": "assets/sound/SE_Narration_MediumSymbol_F_08_en.mp3",
+			"type": "sound",
+			"name": "SE_Narration_MediumSymbol_F_08_en_mp3"
+		},
+		{
+			"url": "assets/sound/SE_Narration_MediumSymbol_F_10_en.mp3",
+			"type": "sound",
+			"name": "SE_Narration_MediumSymbol_F_10_en_mp3"
+		},
+		{
+			"url": "assets/sound/SE_Narration_MediumSymbol_F_11_cn.mp3",
+			"type": "sound",
+			"name": "SE_Narration_MediumSymbol_F_11_cn_mp3"
+		},
+		{
+			"url": "assets/sound/SE_Narration_MediumSymbol_F_11_en.mp3",
+			"type": "sound",
+			"name": "SE_Narration_MediumSymbol_F_11_en_mp3"
+		},
+		{
+			"url": "assets/sound/SE_Narration_MediumSymbol_F_12_cn.mp3",
+			"type": "sound",
+			"name": "SE_Narration_MediumSymbol_F_12_cn_mp3"
+		},
+		{
+			"url": "assets/sound/SE_Narration_MediumSymbol_F_12_en.mp3",
+			"type": "sound",
+			"name": "SE_Narration_MediumSymbol_F_12_en_mp3"
+		},
+		{
+			"url": "assets/sound/SE_Narration_MediumSymbol_F_13_cn.mp3",
+			"type": "sound",
+			"name": "SE_Narration_MediumSymbol_F_13_cn_mp3"
+		},
+		{
+			"url": "assets/sound/SE_Narration_MediumSymbol_F_13_en.mp3",
+			"type": "sound",
+			"name": "SE_Narration_MediumSymbol_F_13_en_mp3"
+		},
+		{
+			"url": "assets/sound/SE_Narration_MediumSymbol_F_14_en.mp3",
+			"type": "sound",
+			"name": "SE_Narration_MediumSymbol_F_14_en_mp3"
+		},
+		{
+			"url": "assets/sound/SE_Narration_MediumSymbol_F_15_cn.mp3",
+			"type": "sound",
+			"name": "SE_Narration_MediumSymbol_F_15_cn_mp3"
+		},
+		{
+			"url": "assets/sound/SE_Narration_MediumSymbol_M_01_en.mp3",
+			"type": "sound",
+			"name": "SE_Narration_MediumSymbol_M_01_en_mp3"
+		},
+		{
+			"url": "assets/sound/SE_Narration_MediumSymbol_M_02_cn.mp3",
+			"type": "sound",
+			"name": "SE_Narration_MediumSymbol_M_02_cn_mp3"
+		},
+		{
+			"url": "assets/sound/SE_Narration_MediumSymbol_M_03_en.mp3",
+			"type": "sound",
+			"name": "SE_Narration_MediumSymbol_M_03_en_mp3"
+		},
+		{
+			"url": "assets/sound/SE_Narration_MediumSymbol_M_06_en.mp3",
+			"type": "sound",
+			"name": "SE_Narration_MediumSymbol_M_06_en_mp3"
+		},
+		{
+			"url": "assets/sound/SE_Narration_MediumSymbol_M_07_cn.mp3",
+			"type": "sound",
+			"name": "SE_Narration_MediumSymbol_M_07_cn_mp3"
+		},
+		{
+			"url": "assets/sound/SE_Narration_MediumSymbol_M_08_cn.mp3",
+			"type": "sound",
+			"name": "SE_Narration_MediumSymbol_M_08_cn_mp3"
+		},
+		{
+			"url": "assets/sound/SE_Narration_MediumSymbol_F_14_cn.mp3",
+			"type": "sound",
+			"name": "SE_Narration_MediumSymbol_F_14_cn_mp3"
+		},
+		{
+			"url": "assets/sound/SE_Narration_MediumSymbol_M_03_cn.mp3",
+			"type": "sound",
+			"name": "SE_Narration_MediumSymbol_M_03_cn_mp3"
+		},
+		{
+			"url": "assets/battle/battle_all.json",
+			"type": "sheet",
+			"name": "battle_all_json",
+			"subkeys": "GP_Aim_png,GP_Base_Background_01_png,GP_Base_Background_02_png,GP_Base_Background_03_png,GP_Broadcast_Board_png,GP_Broadcast_Laba_png,GP_Broadcast_Symbol100_png,GP_Broadcast_Symbol101_png,GP_Broadcast_Symbol102_png,GP_Broadcast_Symbol103_png,GP_Broadcast_Symbol19_png,GP_Gun2_Board_png,GP_GunSeat_png,GP_Hit_01_png,GP_Hit_02_png,GP_Hit_03_png,GP_LD_Prompt_02_png,GP_LD_Prompt_png,GP_LD_RedEnvel_png,GP_LD_Win_Board_png,GP_Mask_png,GP_Roulette1_png,GP_Roulette2_png,GP_Roulette3_100_png,GP_Roulette3_101_png,GP_Roulette3_15_png,GP_Roulette3_16_png,GP_Roulette3_17_png,GP_Roulette3_18_png,GP_Roulette3_19_png,GP_Roulette_BGFX_png,GP_Roulette_BG_01_png,GP_Roulette_BG_02_png,GP_Roulette_BG_03_png,GP_Roulette_Muti_01_png,GP_Roulette_Muti_02_png,GP_Roulette_Muti_03_png,GP_Roulette_Muti_04_png,GP_Roulette_Muti_05_png,GP_Roulette_PointerFX_01_png,GP_Roulette_PointerFX_02_png,GP_Roulette_Pointer_png,GP_Roulette_Prompt_png,UI_BTN_BetMinis_01_png,UI_BTN_BetMinis_02_png,UI_BTN_BetMinis_03_png,UI_BTN_BetPlus_01_png,UI_BTN_BetPlus_02_png,UI_BTN_BetPlus_03_png,UI_BTN_Help_png,UI_BTN_Home_png,UI_BTN_Sound_01_png,UI_BTN_Sound_02_png,UI_Bet_Board1_png,UI_Bet_Board2_png,UI_Credit_Board_png,UI_Credit_Coin_png,UI_Menu_01_png,UI_Menu_02_png,UI_Menu_png,UI_Room_Frame_png,UI_Start_Line1_png,UI_Start_Line2_png,UI_Start_Line3_png,UI_Start_Line4_png,UI_Start_Line5_png,UI_Start_Location2_png,UI_Waiting_01_png"
+		},
+		{
+			"url": "assets/preload/preload_all.json",
+			"type": "sheet",
+			"name": "preload_all_json",
+			"subkeys": "GP_Loading_Background_png,GP_Loading_Bar_01_png,GP_Loading_Bar_02_png,GP_Loading_Logo_png"
+		},
+		{
+			"url": "assets/help/help_all.json",
+			"type": "sheet",
+			"name": "help_all_json",
+			"subkeys": "UI_Help_Board02_png,UI_Help_Board_png,UI_Help_GameFeature2_02_png,UI_Help_GameFeature3_02_png,UI_Help_GameFeature4_02_png,UI_Help_GameFeature5_02_png,UI_Help_GameFeature6_02_png,UI_Help_Next_png,UI_Help_Off_png,UI_Help_PayTable2_01_png,UI_Help_PayTable2_02_png,UI_Help_PayTable2_03_png,UI_Help_PayTable2_04_png,UI_Help_PayTable3_02_png,UI_Help_PayTable4_02_png"
+		},
+		{
+			"url": "assets/tableJson/SpeakSoundGroup.json",
+			"type": "json",
+			"name": "SpeakSoundGroup_json"
+		},
+		{
+			"url": "assets/common/common_all.json",
+			"type": "sheet",
+			"name": "common_all_json",
+			"subkeys": "button_down_png,button_up_png,roundthumb_png"
+		},
+		{
+			"url": "assets/font/GP_Credit_Num3.fnt",
+			"type": "font",
+			"name": "GP_Credit_Num3_fnt"
+		},
+		{
+			"url": "assets/font/GP_Credit_Num3.png",
+			"type": "image",
+			"name": "GP_Credit_Num3_png"
+		},
+		{
+			"url": "assets/sound/SE_Narration_CaiShenFaFaFa_01_cn.mp3",
+			"type": "sound",
+			"name": "SE_Narration_CaiShenFaFaFa_01_cn_mp3"
+		},
+		{
+			"url": "assets/preloadBundle/cn/preloadBundle_cn_all.json",
+			"type": "sheet",
+			"name": "preloadBundle_cn_all_json",
+			"subkeys": "GP_Loading_Logo_cn_png,GP_Loading_Msg_01_cn_png"
+		},
+		{
+			"url": "assets/preloadBundle/en/preloadBundle_en_all.json",
+			"type": "sheet",
+			"name": "preloadBundle_en_all_json",
+			"subkeys": "GP_Loading_Logo_en_png,GP_Loading_Msg_01_en_png"
+		},
+		{
+			"url": "assets/preloadBundle/tw/preloadBundle_tw_all.json",
+			"type": "sheet",
+			"name": "preloadBundle_tw_all_json",
+			"subkeys": "GP_Loading_Logo_tw_png,GP_Loading_Msg_01_tw_png"
+		},
+		{
+			"url": "assets/animation/SS_Animation_Atlas_11.png",
+			"type": "image",
+			"name": "SS_Animation_Atlas_11_png"
+		},
+		{
+			"url": "assets/animation/SS_Animation_Atlas_11.json",
+			"type": "json",
+			"name": "SS_Animation_Atlas_11_json"
+		},
+		{
+			"url": "assets/tableJson/Bet.json",
+			"type": "json",
+			"name": "Bet_json"
+		},
+		{
+			"url": "assets/dragonBones/Lobby03_ske.json",
+			"type": "json",
+			"name": "Lobby03_ske_json"
+		},
+		{
+			"url": "assets/dragonBones/Lobby03_tex.json",
+			"type": "json",
+			"name": "Lobby03_tex_json"
+		},
+		{
+			"url": "assets/dragonBones/Lobby03_tex.png",
+			"type": "image",
+			"name": "Lobby03_tex_png"
+		},
+		{
+			"url": "assets/dragonBones/Lobby02_ske.json",
+			"type": "json",
+			"name": "Lobby02_ske_json"
+		},
+		{
+			"url": "assets/dragonBones/Lobby02_tex.json",
+			"type": "json",
+			"name": "Lobby02_tex_json"
+		},
+		{
+			"url": "assets/dragonBones/Lobby02_tex.png",
+			"type": "image",
+			"name": "Lobby02_tex_png"
+		},
+		{
+			"url": "assets/dragonBones/Lobby01_ske.json",
+			"type": "json",
+			"name": "Lobby01_ske_json"
+		},
+		{
+			"url": "assets/dragonBones/Lobby01_tex.json",
+			"type": "json",
+			"name": "Lobby01_tex_json"
+		},
+		{
+			"url": "assets/dragonBones/Lobby01_tex.png",
+			"type": "image",
+			"name": "Lobby01_tex_png"
+		},
+		{
+			"url": "assets/font/GP_Roulette_Bet.fnt",
+			"type": "font",
+			"name": "GP_Roulette_Bet_fnt"
+		},
+		{
+			"url": "assets/font/GP_Roulette_Bet.png",
+			"type": "image",
+			"name": "GP_Roulette_Bet_png"
+		},
+		{
+			"url": "assets/fish/SS_Symbol_Atlas_102.json",
+			"type": "json",
+			"name": "SS_Symbol_Atlas_102_json"
+		},
+		{
+			"url": "assets/fish/SS_Symbol_Atlas_102.png",
+			"type": "image",
+			"name": "SS_Symbol_Atlas_102_png"
+		},
+		{
+			"url": "assets/tableJson/LuckyDraw.json",
+			"type": "json",
+			"name": "LuckyDraw_json"
+		},
+		{
+			"url": "assets/sound/SE_Game_LuckyRoll_01.mp3",
+			"type": "sound",
+			"name": "SE_Game_LuckyRoll_01_mp3"
+		},
+		{
+			"url": "assets/sound/SE_Game_LuckyRoll_02.mp3",
+			"type": "sound",
+			"name": "SE_Game_LuckyRoll_02_mp3"
+		},
+		{
+			"url": "assets/sound/SE_Game_LuckyRoll_03.mp3",
+			"type": "sound",
+			"name": "SE_Game_LuckyRoll_03_mp3"
+		},
+		{
+			"url": "assets/sound/SE_Game_LuckyRoll_04.mp3",
+			"type": "sound",
+			"name": "SE_Game_LuckyRoll_04_mp3"
+		},
+		{
+			"url": "assets/fish/SS_Symbol_Atlas_103.png",
+			"type": "image",
+			"name": "SS_Symbol_Atlas_103_png"
+		},
+		{
+			"url": "assets/fish/SS_Symbol_Atlas_103.json",
+			"type": "json",
+			"name": "SS_Symbol_Atlas_103_json"
+		},
+		{
+			"url": "assets/bundle/cn/bundle_cn_all.json",
+			"type": "sheet",
+			"name": "bundle_cn_all_json",
+			"subkeys": "GP_BossMsg_cn_png,GP_LD_CaiShen_FX_cn_png,GP_LD_CaiShen_cn_png,GP_LD_PickMsg_cn_png,GP_LD_Win_Msg_cn_png,GP_Loading_Msg_02_cn_png,GP_Loading_Msg_03_cn_png,GP_Loading_Msg_04_cn_png,GP_Loading_Msg_05_cn_png,GP_Loading_Msg_06_cn_png,GP_Loading_Msg_07_cn_png,GP_Loading_Msg_08_cn_png,GP_Loading_Msg_09_cn_png,GP_Loading_Msg_10_cn_png,GP_Roulette_Msg_cn_png,GP_TST_Msg_cn_png,Lobby_Coming_cn_png,UI_Aim_01_cn_png,UI_Aim_02_cn_png,UI_Auto_01_cn_png,UI_Auto_02_cn_png,UI_Help_Game-Rule1_01_cn_png,UI_Help_Game-Rule1_02_cn_png,UI_Help_Game-Rule3_01_cn_png,UI_Help_GameFeature1_01_cn_png,UI_Help_GameFeature1_02_cn_png,UI_Help_GameFeature2_01_cn_png,UI_Help_GameFeature2_03_cn_png,UI_Help_GameFeature2_04_cn_png,UI_Help_GameFeature3_01_cn_png,UI_Help_GameFeature3_03_cn_png,UI_Help_GameFeature4_01_cn_png,UI_Help_GameFeature4_03_cn_png,UI_Help_GameFeature4_04_cn_png,UI_Help_GameFeature5_03_cn_png,UI_Help_GameFeature5_04_cn_png,UI_Help_GameFeature6_01_cn_png,UI_Help_GameFeature6_03_cn_png,UI_Help_GameFeature6_04_cn_png,UI_Help_Info1_01_cn_png,UI_Help_Info1_02_cn_png,UI_Help_Info2_01_cn_png,UI_Help_PayTable1_01_cn_png,UI_Help_PayTable1_02_cn_png,UI_Help_PayTable2_04_cn_png,UI_Help_PayTable3_01_cn_png,UI_Help_PayTable3_03_cn_png,UI_Help_PayTable4_01_cn_png,UI_Help_PayTable4_03_cn_png,UI_Help_Tip_cn_png,UI_Lobby_CaiShen_cn_png,UI_Lobby_Expert_cn_png,UI_Lobby_Newbie_cn_png,UI_Room_Msg1_cn_png,UI_Room_Msg2_cn_png,UI_Room_Msg3_cn_png,UI_Start_Aim_cn_png,UI_Start_AutoFire_cn_png,UI_Start_Location1_cn_png,UI_Start_Menu_cn_png,UI_Wait_Msg_cn_png"
+		},
+		{
+			"url": "assets/bundle/tw/bundle_tw_all.json",
+			"type": "sheet",
+			"name": "bundle_tw_all_json",
+			"subkeys": "GP_BossMsg_tw_png,GP_LD_CaiShen_FX_tw_png,GP_LD_CaiShen_tw_png,GP_LD_PickMsg_tw_png,GP_LD_Win_Msg_tw_png,GP_Loading_Msg_02_tw_png,GP_Loading_Msg_03_tw_png,GP_Loading_Msg_04_tw_png,GP_Loading_Msg_05_tw_png,GP_Loading_Msg_06_tw_png,GP_Loading_Msg_07_tw_png,GP_Loading_Msg_08_tw_png,GP_Loading_Msg_09_tw_png,GP_Loading_Msg_10_tw_png,GP_Roulette_Msg_tw_png,GP_TST_Msg_tw_png,Lobby_Coming_tw_png,UI_Aim_01_tw_png,UI_Aim_02_tw_png,UI_Auto_01_tw_png,UI_Auto_02_tw_png,UI_Help_Game-Rule1_01_tw_png,UI_Help_Game-Rule1_02_tw_png,UI_Help_Game-Rule3_01_tw_png,UI_Help_GameFeature1_01_tw_png,UI_Help_GameFeature1_02_tw_png,UI_Help_GameFeature2_01_tw_png,UI_Help_GameFeature2_03_tw_png,UI_Help_GameFeature2_04_tw_png,UI_Help_GameFeature3_01_tw_png,UI_Help_GameFeature3_03_tw_png,UI_Help_GameFeature4_01_tw_png,UI_Help_GameFeature4_03_tw_png,UI_Help_GameFeature4_04_tw_png,UI_Help_GameFeature5_03_tw_png,UI_Help_GameFeature5_04_tw_png,UI_Help_GameFeature6_01_tw_png,UI_Help_GameFeature6_03_tw_png,UI_Help_GameFeature6_04_tw_png,UI_Help_Info1_01_tw_png,UI_Help_Info1_02_tw_png,UI_Help_Info2_01_tw_png,UI_Help_PayTable1_01_tw_png,UI_Help_PayTable1_02_tw_png,UI_Help_PayTable2_04_tw_png,UI_Help_PayTable3_01_tw_png,UI_Help_PayTable3_03_tw_png,UI_Help_PayTable4_01_tw_png,UI_Help_PayTable4_03_tw_png,UI_Help_Tip_tw_png,UI_Lobby_CaiShen_tw_png,UI_Lobby_Expert_tw_png,UI_Lobby_Newbie_tw_png,UI_Room_Msg1_tw_png,UI_Room_Msg2_tw_png,UI_Room_Msg3_tw_png,UI_Start_Aim_tw_png,UI_Start_AutoFire_tw_png,UI_Start_Location1_tw_png,UI_Start_Menu_tw_png,UI_Wait_Msg_tw_png"
+		},
+		{
+			"url": "assets/bundle/en/bundle_en_all.json",
+			"type": "sheet",
+			"name": "bundle_en_all_json",
+			"subkeys": "GP_BossMsg_en_png,GP_LD_CaiShen_FX_en_png,GP_LD_CaiShen_en_png,GP_LD_PickMsg_en_png,GP_LD_Win_Msg_en_png,GP_Loading_Msg_02_en_png,GP_Loading_Msg_03_en_png,GP_Loading_Msg_04_en_png,GP_Loading_Msg_05_en_png,GP_Loading_Msg_06_en_png,GP_Loading_Msg_07_en_png,GP_Loading_Msg_08_en_png,GP_Loading_Msg_09_en_png,GP_Loading_Msg_10_en_png,GP_Roulette_Msg_en_png,GP_TST_Msg_en_png,Lobby_Coming_en_png,UI_Aim_01_en_png,UI_Aim_02_en_png,UI_Auto_01_en_png,UI_Auto_02_en_png,UI_Help_Game-Rule1_01_en_png,UI_Help_Game-Rule1_02_en_png,UI_Help_Game-Rule3_01_en_png,UI_Help_GameFeature1_01_en_png,UI_Help_GameFeature1_02_en_png,UI_Help_GameFeature2_01_en_png,UI_Help_GameFeature2_03_en_png,UI_Help_GameFeature2_04_en_png,UI_Help_GameFeature3_01_en_png,UI_Help_GameFeature3_03_en_png,UI_Help_GameFeature4_01_en_png,UI_Help_GameFeature4_03_en_png,UI_Help_GameFeature4_04_en_png,UI_Help_GameFeature5_03_en_png,UI_Help_GameFeature5_04_en_png,UI_Help_GameFeature6_01_en_png,UI_Help_GameFeature6_03_en_png,UI_Help_GameFeature6_04_en_png,UI_Help_Info1_01_en_png,UI_Help_Info1_02_en_png,UI_Help_Info2_01_en_png,UI_Help_PayTable1_01_en_png,UI_Help_PayTable1_02_en_png,UI_Help_PayTable2_04_en_png,UI_Help_PayTable3_01_en_png,UI_Help_PayTable3_03_en_png,UI_Help_PayTable4_01_en_png,UI_Help_PayTable4_03_en_png,UI_Help_Tip_en_png,UI_Lobby_CaiShen_en_png,UI_Lobby_Expert_en_png,UI_Lobby_Newbie_en_png,UI_Room_Msg1_en_png,UI_Room_Msg2_en_png,UI_Room_Msg3_en_png,UI_Start_Aim_en_png,UI_Start_AutoFire_en_png,UI_Start_Location1_en_png,UI_Start_Menu_en_png,UI_Wait_Msg_en_png"
+		},
+		{
+			"url": "assets/font/GP_Broadcast_Font_en.fnt",
+			"type": "font",
+			"name": "GP_Broadcast_Font_en_fnt"
+		},
+		{
+			"url": "assets/font/GP_Broadcast_Font_en.png",
+			"type": "image",
+			"name": "GP_Broadcast_Font_en_png"
+		},
+		{
+			"url": "assets/font/GP_Broadcast_Font_cn.fnt",
+			"type": "font",
+			"name": "GP_Broadcast_Font_cn_fnt"
+		},
+		{
+			"url": "assets/font/GP_Broadcast_Font_tw.fnt",
+			"type": "font",
+			"name": "GP_Broadcast_Font_tw_fnt"
+		},
+		{
+			"url": "assets/font/GP_Broadcast_Font_cn.png",
+			"type": "image",
+			"name": "GP_Broadcast_Font_cn_png"
+		},
+		{
+			"url": "assets/font/GP_Broadcast_Font_tw.png",
+			"type": "image",
+			"name": "GP_Broadcast_Font_tw_png"
+		},
+		{
+			"url": "assets/dragonBones/SS_Roulette_tex.png",
+			"type": "image",
+			"name": "SS_Roulette_tex_png"
+		},
+		{
+			"url": "assets/dragonBones/SS_Roulette_ske.json",
+			"type": "json",
+			"name": "SS_Roulette_ske_json"
+		},
+		{
+			"url": "assets/dragonBones/SS_Roulette_tex.json",
+			"type": "json",
+			"name": "SS_Roulette_tex_json"
+		},
+		{
+			"url": "assets/animation/SS_Animation_Atlas_03.png",
+			"type": "image",
+			"name": "SS_Animation_Atlas_03_png"
+		},
+		{
+			"url": "assets/animation/SS_Animation_Atlas_03.json",
+			"type": "json",
+			"name": "SS_Animation_Atlas_03_json"
+		},
+		{
+			"url": "assets/sound/SE_Game_LuckyRoll_End.mp3",
+			"type": "sound",
+			"name": "SE_Game_LuckyRoll_End_mp3"
+		},
+		{
+			"url": "assets/sound/SE_Narration_LuckyRoll_cn.mp3",
+			"type": "sound",
+			"name": "SE_Narration_LuckyRoll_cn_mp3"
+		},
+		{
+			"url": "assets/sound/SE_Game_LuckyRoll_Background.mp3",
+			"type": "sound",
+			"name": "SE_Game_LuckyRoll_Background_mp3"
+		},
+		{
+			"url": "assets/sound/SE_Game_LuckyRoll_Hit.mp3",
+			"type": "sound",
+			"name": "SE_Game_LuckyRoll_Hit_mp3"
+		},
+		{
+			"url": "assets/sound/SE_Narration_CaiShen_01_en.mp3",
+			"type": "sound",
+			"name": "SE_Narration_CaiShen_01_en_mp3"
+		},
+		{
+			"url": "assets/particle/Lobby_Bubble.png",
+			"type": "image",
+			"name": "Lobby_Bubble_png"
+		},
+		{
+			"url": "assets/particle/Lobby_Bubble.json",
+			"type": "json",
+			"name": "Lobby_Bubble_json"
+		},
+		{
+			"url": "assets/dragonBones/UI_PromoteIcon_tex.png",
+			"type": "image",
+			"name": "UI_PromoteIcon_tex_png"
+		},
+		{
+			"url": "assets/dragonBones/UI_PromoteIcon_tex.json",
+			"type": "json",
+			"name": "UI_PromoteIcon_tex_json"
+		},
+		{
+			"url": "assets/dragonBones/UI_PromoteIcon_ske.json",
+			"type": "json",
+			"name": "UI_PromoteIcon_ske_json"
+		},
+		{
+			"url": "assets/lobby/UI_Lobby_CreditNum_PHP.png",
+			"type": "image",
+			"name": "UI_Lobby_CreditNum_PHP_png"
+		},
+		{
+			"url": "assets/tableJson/BulletType.json",
+			"type": "json",
+			"name": "BulletType_json"
+		},
+		{
+			"url": "assets/preload/SS_Lobby.png",
+			"type": "image",
+			"name": "SS_Lobby_png"
+		},
+		{
+			"url": "assets/preload/SS_Lobby.json",
+			"type": "json",
+			"name": "SS_Lobby_json"
+		},
+		{
+			"url": "assets/preloadBundle/th/preloadBundle_th_all.json",
+			"type": "sheet",
+			"name": "preloadBundle_th_all_json",
+			"subkeys": "GP_Loading_Logo_th_png,GP_Loading_Msg_01_th_png"
+		},
+		{
+			"url": "assets/font/GP_Broadcast_Font_th.fnt",
+			"type": "font",
+			"name": "GP_Broadcast_Font_th_fnt"
+		},
+		{
+			"url": "assets/font/GP_Broadcast_Font_th.png",
+			"type": "image",
+			"name": "GP_Broadcast_Font_th_png"
+		},
+		{
+			"url": "assets/bundle/th/bundle_th_all.json",
+			"type": "sheet",
+			"name": "bundle_th_all_json",
+			"subkeys": "GP_BossMsg_th_png,GP_LD_CaiShen_FX_th_png,GP_LD_CaiShen_th_png,GP_LD_PickMsg_th_png,GP_LD_Win_Msg_th_png,GP_Loading_Msg_02_th_png,GP_Loading_Msg_03_th_png,GP_Loading_Msg_04_th_png,GP_Loading_Msg_05_th_png,GP_Loading_Msg_06_th_png,GP_Loading_Msg_07_th_png,GP_Loading_Msg_08_th_png,GP_Loading_Msg_09_th_png,GP_Loading_Msg_10_th_png,GP_Roulette_Msg_th_png,GP_TST_Msg_th_png,Lobby_Coming_th_png,UI_Aim_01_th_png,UI_Aim_02_th_png,UI_Auto_01_th_png,UI_Auto_02_th_png,UI_Help_Game-Rule1_01_th_png,UI_Help_Game-Rule1_02_th_png,UI_Help_Game-Rule3_01_th_png,UI_Help_GameFeature1_01_th_png,UI_Help_GameFeature1_02_th_png,UI_Help_GameFeature2_01_th_png,UI_Help_GameFeature2_03_th_png,UI_Help_GameFeature2_04_th_png,UI_Help_GameFeature3_01_th_png,UI_Help_GameFeature3_03_th_png,UI_Help_GameFeature4_01_th_png,UI_Help_GameFeature4_03_th_png,UI_Help_GameFeature4_04_th_png,UI_Help_GameFeature5_03_th_png,UI_Help_GameFeature5_04_th_png,UI_Help_GameFeature6_01_th_png,UI_Help_GameFeature6_03_th_png,UI_Help_GameFeature6_04_th_png,UI_Help_Info1_01_th_png,UI_Help_Info1_02_th_png,UI_Help_Info2_01_th_png,UI_Help_PayTable1_01_th_png,UI_Help_PayTable1_02_th_png,UI_Help_PayTable2_04_th_png,UI_Help_PayTable3_01_th_png,UI_Help_PayTable3_03_th_png,UI_Help_PayTable4_01_th_png,UI_Help_PayTable4_03_th_png,UI_Help_Tip_th_png,UI_Lobby_CaiShen_th_png,UI_Lobby_Expert_th_png,UI_Lobby_Newbie_th_png,UI_Room_Msg1_th_png,UI_Room_Msg2_th_png,UI_Room_Msg3_th_png,UI_Start_Aim_th_png,UI_Start_AutoFire_th_png,UI_Start_Location1_th_png,UI_Start_Menu_th_png,UI_Wait_Msg_th_png"
+		},
+		{
+			"url": "assets/lobby/lobby_all.json",
+			"type": "sheet",
+			"name": "lobby_all_json",
+			"subkeys": "Cursor_png,GP_Lobby_BG_01_png,GP_Lobby_BG_02_png,GP_Lobby_BG_03_png,GP_Lobby_BG_04_png,GP_Lobby_BG_png,GP_Lobby_Fish1_png,GP_Lobby_Fish2_png,GP_Lobby_Fish3_png,GP_Lobby_Fish4_png,GP_Lobby_Fish5_png,GP_Lobby_Item1_png,GP_Lobby_Item2_png,UI_Lobby_CaiShen_png,UI_Lobby_CreditBoard_png,UI_Lobby_Expert_png,UI_Lobby_Help_png,UI_Lobby_Home_png,UI_Lobby_MenuBoard_png,UI_Lobby_Menu_png,UI_Lobby_Newbie_png,UI_Lobby_Report_png,UI_Lobby_Sound_01_png,UI_Lobby_Sound_02_png,UI_Lobby_UserBoard_png,UI_PromoteBoard_png,UI_PromoteMsg_cn_png"
+		}
+	]
+}

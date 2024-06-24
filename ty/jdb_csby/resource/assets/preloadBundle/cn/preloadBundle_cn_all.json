@@ -1,0 +1,13 @@
+{
+  "file": "preloadBundle_cn_all.png",
+  "frames": { 
+    "GP_Loading_Logo_cn_png": {"x":1,"y":1,"w":664,"h":197,"offX":0,"offY":1,"sourceW":664,"sourceH":231},
+    "GP_Loading_Msg_01_cn_png": {"x":1,"y":200,"w":533,"h":45}
+  },
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "exporter": "egret",
+    "sheetsize": "666x246",
+    "smartupdate": "$TexturePacker:SmartUpdate:6d224bfc154e5c8722e3170984ba7aa6:2fc2af050a01509a254aedaaae774b1c:cc3d2f9c2bbd6eb03948e7b4367f7112$"
+  }
+}

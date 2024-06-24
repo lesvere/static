@@ -1,0 +1,47 @@
+{
+    "dealer_not_allow_bet": {
+        "en": "the dealer can't bet",
+        "cn": "庄家不可以下注"
+    },
+    "dealer_pool_reach_limit": {
+        "en": "reach the upper limit of the bonus pool and stop betting",
+        "cn": "到达奖池上限，停止下注"
+    },
+    "dealer_success_appointment": {
+        "en": "successful appointment",
+        "cn": "预约成功"
+    },
+    "dealer_up_fail_not_enough_money": {
+        "en": "not enough money, updealer fail",
+        "cn": "金额不足 无法上庄"
+    },
+    "dealer_cancel_appointment": {
+        "en": "cancel appointment",
+        "cn": "取消预约"
+    },
+    "dealer_success_to_be": {
+        "en": "",
+        "cn": "上庄成功"
+    },
+    "dealer_success_to_leave": {
+        "en": "",
+        "cn": "下庄成功"
+    },
+    "dealer_my_in": {
+        "en": "my investment",
+        "cn": "我的投入"
+    },
+    
+    "dealer_0_no_limit": {
+        "en": "",
+        "cn": "0表示不设置止盈值"
+    },
+    "dealer_input_more_then": {
+        "en": "",
+        "cn": "投入金额需要大于"
+    },
+    "dealer_tips_more_then": {
+        "en": "",
+        "cn": "2.上庄余额最低不能少于$，否则将强行下庄"
+    }
+}

@@ -1,0 +1,17 @@
+{"file":"GP_Gun2_Num.png","frames":{
+"$":{"x":38,"y":1,"w":26,"h":31,"offX":0,"offY":0,"sourceW":27,"sourceH":34},
+"+":{"x":28,"y":65,"w":25,"h":21,"offX":1,"offY":5,"sourceW":26,"sourceH":34},
+",":{"x":55,"y":91,"w":15,"h":14,"offX":0,"offY":20,"sourceW":16,"sourceH":34},
+"-":{"x":28,"y":88,"w":25,"h":10,"offX":1,"offY":10,"sourceW":27,"sourceH":34},
+".":{"x":1,"y":92,"w":11,"h":10,"offX":1,"offY":20,"sourceW":12,"sourceH":34},
+"0":{"x":56,"y":61,"w":25,"h":28,"offX":1,"offY":2,"sourceW":27,"sourceH":34},
+"1":{"x":108,"y":62,"w":18,"h":28,"offX":1,"offY":2,"sourceW":20,"sourceH":34},
+"2":{"x":66,"y":1,"w":27,"h":28,"offX":0,"offY":2,"sourceW":28,"sourceH":34},
+"3":{"x":66,"y":31,"w":26,"h":28,"offX":0,"offY":2,"sourceW":26,"sourceH":34},
+"4":{"x":1,"y":62,"w":25,"h":28,"offX":1,"offY":2,"sourceW":27,"sourceH":34},
+"5":{"x":1,"y":32,"w":26,"h":28,"offX":0,"offY":2,"sourceW":26,"sourceH":34},
+"6":{"x":29,"y":34,"w":25,"h":29,"offX":1,"offY":1,"sourceW":27,"sourceH":34},
+"7":{"x":83,"y":62,"w":23,"h":28,"offX":1,"offY":2,"sourceW":25,"sourceH":34},
+"8":{"x":94,"y":32,"w":26,"h":28,"offX":0,"offY":2,"sourceW":27,"sourceH":34},
+"9":{"x":95,"y":1,"w":26,"h":29,"offX":0,"offY":1,"sourceW":28,"sourceH":34},
+"X":{"x":1,"y":1,"w":35,"h":29,"offX":0,"offY":1,"sourceW":35,"sourceH":34}}}

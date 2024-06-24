@@ -1,0 +1,1 @@
+[{"id":1,"enumName":"Move","enumNote":"上下左右震動的值為 pixel","repeat":10,"range":10,"onceTime":100,"type":1},{"id":2,"enumName":"Scale","enumNote":"縮放震動值為 縮放比例","repeat":2,"range":0.05,"onceTime":200,"type":2}]

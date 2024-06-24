@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<font>
+  <info face="Arial" size="32" bold="0" italic="0" charset="" unicode="1" stretchH="100" smooth="1" aa="1" padding="0,0,0,0" spacing="0,0" outline="0"/>
+  <common lineHeight="32" base="26" scaleW="256" scaleH="256" pages="1" packed="0" alphaChnl="1" redChnl="0" greenChnl="0" blueChnl="0"/>
+  <pages>
+    <page id="0" file="bmfont_jiangchiZi.png" />
+  </pages>
+  <chars count="27">
+    <char id="36" x="3" y="0" width="15" height="25" xoffset="0" yoffset="0" xadvance="15" page="0" chnl="15" />
+    <char id="37" x="24" y="0" width="15" height="25" xoffset="0" yoffset="0" xadvance="15" page="0" chnl="15" />
+    <char id="40" x="45" y="0" width="15" height="25" xoffset="0" yoffset="0" xadvance="15" page="0" chnl="15" />
+    <char id="41" x="66" y="0" width="15" height="25" xoffset="0" yoffset="0" xadvance="15" page="0" chnl="15" />
+    <char id="43" x="87" y="0" width="15" height="25" xoffset="0" yoffset="0" xadvance="15" page="0" chnl="15" />
+    <char id="44" x="108" y="0" width="15" height="25" xoffset="0" yoffset="0" xadvance="15" page="0" chnl="15" />
+    <char id="45" x="129" y="0" width="15" height="25" xoffset="0" yoffset="0" xadvance="15" page="0" chnl="15" />
+    <char id="46" x="150" y="0" width="15" height="25" xoffset="0" yoffset="0" xadvance="15" page="0" chnl="15" />
+    <char id="47" x="171" y="0" width="15" height="25" xoffset="0" yoffset="0" xadvance="15" page="0" chnl="15" />
+    <char id="48" x="192" y="0" width="15" height="25" xoffset="0" yoffset="0" xadvance="15" page="0" chnl="15" />
+    <char id="49" x="213" y="0" width="15" height="25" xoffset="0" yoffset="0" xadvance="15" page="0" chnl="15" />
+    <char id="50" x="234" y="0" width="15" height="25" xoffset="0" yoffset="0" xadvance="15" page="0" chnl="15" />
+    <char id="51" x="3" y="25" width="15" height="25" xoffset="0" yoffset="0" xadvance="15" page="0" chnl="15" />
+    <char id="52" x="24" y="25" width="15" height="25" xoffset="0" yoffset="0" xadvance="15" page="0" chnl="15" />
+    <char id="53" x="45" y="25" width="15" height="25" xoffset="0" yoffset="0" xadvance="15" page="0" chnl="15" />
+    <char id="54" x="66" y="25" width="15" height="25" xoffset="0" yoffset="0" xadvance="15" page="0" chnl="15" />
+    <char id="55" x="87" y="25" width="15" height="25" xoffset="0" yoffset="0" xadvance="15" page="0" chnl="15" />
+    <char id="56" x="108" y="25" width="15" height="25" xoffset="0" yoffset="0" xadvance="15" page="0" chnl="15" />
+    <char id="57" x="129" y="25" width="15" height="25" xoffset="0" yoffset="0" xadvance="15" page="0" chnl="15" />
+    <char id="58" x="150" y="25" width="15" height="25" xoffset="0" yoffset="0" xadvance="15" page="0" chnl="15" />
+    <char id="61" x="171" y="25" width="15" height="25" xoffset="0" yoffset="0" xadvance="15" page="0" chnl="15" />
+    <char id="88" x="192" y="25" width="15" height="25" xoffset="0" yoffset="0" xadvance="15" page="0" chnl="15" />
+    <char id="91" x="213" y="25" width="15" height="25" xoffset="0" yoffset="0" xadvance="15" page="0" chnl="15" />
+    <char id="93" x="234" y="25" width="15" height="25" xoffset="0" yoffset="0" xadvance="15" page="0" chnl="15" />
+    <char id="120" x="3" y="50" width="15" height="25" xoffset="0" yoffset="0" xadvance="15" page="0" chnl="15" />
+    <char id="165" x="24" y="50" width="15" height="25" xoffset="0" yoffset="0" xadvance="15" page="0" chnl="15" />
+    <char id="247" x="45" y="50" width="15" height="25" xoffset="0" yoffset="0" xadvance="15" page="0" chnl="15" />
+  </chars>
+</font>

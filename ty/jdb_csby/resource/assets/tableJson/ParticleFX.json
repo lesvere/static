@@ -1,0 +1,1 @@
+[{"id":1,"enumName":"Bubble","enumNote":"泡泡","jsonName":"GP_Bubble","scale":1,"lifeTime":5000,"fadeInTime":200,"fadeOutTime":200},{"id":2,"enumName":"Light","enumNote":"噴發閃光","jsonName":"Shine","scale":1,"lifeTime":1000,"fadeInTime":0,"fadeOutTime":1000}]

@@ -1,0 +1,16 @@
+{
+	"groups": [
+		{
+			"keys": "",
+			"name": "preload_lang"
+		}
+	],
+	"resources": [
+		{
+			"url": "skins/module/ddz/cn/ddz_cn.json",
+			"type": "sheet",
+			"name": "ddz_cn_json",
+			"subkeys": "ddz_1_fen_png,ddz_2_fen_png,ddz_3_fen_png,ddz_btn_chat_png,ddz_btn_off_png,ddz_btn_on_png,ddz_buchu_txt_png,ddz_diaoxian_png,ddz_dizhu_png,ddz_losedz_png,ddz_losenm_png,ddz_mingpai_png,ddz_mingpaistart_png,ddz_number_txt_png,ddz_qxtg_label_png,ddz_ready_png,ddz_ssp_title_png,ddz_start_png,ddz_talk_txt0_png,ddz_talk_txt10_png,ddz_talk_txt11_png,ddz_talk_txt12_png,ddz_talk_txt13_png,ddz_talk_txt14_png,ddz_talk_txt1_png,ddz_talk_txt2_png,ddz_talk_txt3_png,ddz_talk_txt4_png,ddz_talk_txt5_png,ddz_talk_txt6_png,ddz_talk_txt7_png,ddz_talk_txt8_png,ddz_talk_txt9_png,ddz_tip_title_png,ddz_tips_bc_png,ddz_tips_bj_png,ddz_tips_bjb_png,ddz_tips_bq_png,ddz_tips_jb_png,ddz_tips_jdz_png,ddz_tips_qdz_png,ddz_txt_tg_lose_png,ddz_txt_tg_win_png,ddz_windz_png,ddz_winnm_png"
+		}
+	]
+}

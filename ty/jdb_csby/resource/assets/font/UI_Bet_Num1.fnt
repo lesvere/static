@@ -1,0 +1,17 @@
+{"file":"UI_Bet_Num1.png","frames":{
+"X":{"x":1,"y":1,"w":15,"h":14,"offX":0,"offY":1,"sourceW":15,"sourceH":17},
+"$":{"x":18,"y":1,"w":12,"h":16,"offX":1,"offY":0,"sourceW":13,"sourceH":17},
+",":{"x":1,"y":49,"w":6,"h":5,"offX":1,"offY":12,"sourceW":7,"sourceH":17},
+".":{"x":58,"y":17,"w":4,"h":3,"offX":1,"offY":12,"sourceW":6,"sourceH":17},
+"-":{"x":14,"y":47,"w":11,"h":3,"offX":1,"offY":8,"sourceW":12,"sourceH":17},
+"+":{"x":14,"y":35,"w":11,"h":10,"offX":1,"offY":5,"sourceW":12,"sourceH":17},
+"0":{"x":1,"y":17,"w":11,"h":14,"offX":0,"offY":1,"sourceW":12,"sourceH":17},
+"1":{"x":53,"y":33,"w":7,"h":14,"offX":1,"offY":1,"sourceW":9,"sourceH":17},
+"2":{"x":27,"y":33,"w":11,"h":14,"offX":1,"offY":1,"sourceW":13,"sourceH":17},
+"3":{"x":32,"y":17,"w":11,"h":14,"offX":0,"offY":1,"sourceW":11,"sourceH":17},
+"4":{"x":32,"y":1,"w":12,"h":14,"offX":1,"offY":1,"sourceW":13,"sourceH":17},
+"5":{"x":40,"y":33,"w":11,"h":14,"offX":0,"offY":1,"sourceW":12,"sourceH":17},
+"6":{"x":46,"y":1,"w":12,"h":14,"offX":0,"offY":1,"sourceW":12,"sourceH":17},
+"7":{"x":1,"y":33,"w":11,"h":14,"offX":0,"offY":1,"sourceW":11,"sourceH":17},
+"8":{"x":14,"y":19,"w":11,"h":14,"offX":0,"offY":1,"sourceW":12,"sourceH":17},
+"9":{"x":45,"y":17,"w":11,"h":14,"offX":0,"offY":1,"sourceW":12,"sourceH":17}}}

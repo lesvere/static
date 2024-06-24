@@ -1,0 +1,17 @@
+{"file":"GP_LD_RedEnvelope_Num2.png","frames":{
+"$":{"x":35,"y":1,"w":25,"h":37,"offX":0,"offY":0,"sourceW":25,"sourceH":40},
+"+":{"x":28,"y":77,"w":24,"h":25,"offX":0,"offY":10,"sourceW":25,"sourceH":40},
+",":{"x":1,"y":108,"w":14,"h":16,"offX":0,"offY":24,"sourceW":14,"sourceH":40},
+"-":{"x":28,"y":104,"w":24,"h":10,"offX":0,"offY":18,"sourceW":25,"sourceH":40},
+".":{"x":116,"y":1,"w":10,"h":11,"offX":1,"offY":24,"sourceW":12,"sourceH":40},
+"0":{"x":88,"y":38,"w":24,"h":35,"offX":1,"offY":1,"sourceW":25,"sourceH":40},
+"1":{"x":104,"y":75,"w":17,"h":33,"offX":1,"offY":2,"sourceW":19,"sourceH":40},
+"2":{"x":1,"y":37,"w":25,"h":34,"offX":0,"offY":1,"sourceW":25,"sourceH":40},
+"3":{"x":62,"y":38,"w":24,"h":35,"offX":0,"offY":1,"sourceW":25,"sourceH":40},
+"4":{"x":1,"y":73,"w":25,"h":33,"offX":0,"offY":2,"sourceW":25,"sourceH":40},
+"5":{"x":54,"y":75,"w":24,"h":34,"offX":0,"offY":2,"sourceW":25,"sourceH":40},
+"6":{"x":28,"y":40,"w":24,"h":35,"offX":1,"offY":1,"sourceW":25,"sourceH":40},
+"7":{"x":80,"y":75,"w":22,"h":33,"offX":1,"offY":2,"sourceW":25,"sourceH":40},
+"8":{"x":62,"y":1,"w":25,"h":35,"offX":0,"offY":1,"sourceW":25,"sourceH":40},
+"9":{"x":89,"y":1,"w":25,"h":35,"offX":0,"offY":1,"sourceW":25,"sourceH":40},
+"X":{"x":1,"y":1,"w":32,"h":34,"offX":0,"offY":2,"sourceW":32,"sourceH":40}}}

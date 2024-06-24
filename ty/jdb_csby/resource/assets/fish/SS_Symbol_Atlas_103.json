@@ -1,0 +1,58 @@
+{"mc":{
+	"SS_Symbol_103_02":{
+		"frameRate":30,
+		"labels":[
+			{"name":"Swim","frame":1,"end":1}
+			
+			],
+		"events":[
+			
+			],
+		"frames":[
+			
+			{
+			"res":"1010DFCD",
+			"x":99,
+			"y":116
+			}
+			]
+},"GP_Symbol_100":{
+		"frameRate":30,
+		"labels":[
+			{"name":"Swim","frame":1,"end":1}
+			
+			],
+		"events":[
+			
+			],
+		"frames":[
+			
+			{
+			"res":"5F96F95",
+			"x":75,
+			"y":93
+			}
+			]
+},"SS_Symbol_102":{
+		"frameRate":30,
+		"labels":[
+			{"name":"Swim","frame":1,"end":1}
+			
+			],
+		"events":[
+			
+			],
+		"frames":[
+			
+			{
+			"res":"6B9915E9",
+			"x":112,
+			"y":106
+			}
+			]
+}},
+	"res":{
+		"6B9915E9":{"x":252,"y":169,"w":176,"h":180},
+		"1010DFCD":{"x":252,"y":0,"w":201,"h":167},
+		"5F96F95":{"x":0,"y":0,"w":250,"h":242}
+	}}

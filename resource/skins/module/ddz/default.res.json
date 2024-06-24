@@ -1,0 +1,161 @@
+{
+	"groups": [
+		{
+			"keys": "",
+			"name": "preload_bjlqkl"
+		}
+	],
+	"resources": [
+		{
+			"url": "skins/module/ddz/font/ddz_bei.fnt",
+			"type": "font",
+			"name": "ddz_bei_fnt"
+		},
+		{
+			"url": "skins/module/ddz/font/ddz_bei.png",
+			"type": "image",
+			"name": "ddz_bei_png"
+		},
+		{
+			"url": "skins/module/ddz/font/ddz_bei.webp",
+			"type": "bin",
+			"name": "ddz_bei_webp"
+		},
+		{
+			"url": "skins/module/ddz/font/ddz_bs.webp",
+			"type": "bin",
+			"name": "ddz_bs_webp"
+		},
+		{
+			"url": "skins/module/ddz/font/ddz_fen.fnt",
+			"type": "font",
+			"name": "ddz_fen_fnt"
+		},
+		{
+			"url": "skins/module/ddz/font/ddz_fen.png",
+			"type": "image",
+			"name": "ddz_fen_png"
+		},
+		{
+			"url": "skins/module/ddz/font/ddz_fen.webp",
+			"type": "bin",
+			"name": "ddz_fen_webp"
+		},
+		{
+			"url": "skins/module/ddz/font/ddz_lost.fnt",
+			"type": "font",
+			"name": "ddz_lost_fnt"
+		},
+		{
+			"url": "skins/module/ddz/font/ddz_lost.png",
+			"type": "image",
+			"name": "ddz_lost_png"
+		},
+		{
+			"url": "skins/module/ddz/font/ddz_lost.webp",
+			"type": "bin",
+			"name": "ddz_lost_webp"
+		},
+		{
+			"url": "skins/module/ddz/font/ddz_timer.fnt",
+			"type": "font",
+			"name": "ddz_timer_fnt"
+		},
+		{
+			"url": "skins/module/ddz/font/ddz_timer.png",
+			"type": "image",
+			"name": "ddz_timer_png"
+		},
+		{
+			"url": "skins/module/ddz/font/ddz_timer.webp",
+			"type": "bin",
+			"name": "ddz_timer_webp"
+		},
+		{
+			"url": "skins/module/ddz/font/ddz_win.fnt",
+			"type": "font",
+			"name": "ddz_win_fnt"
+		},
+		{
+			"url": "skins/module/ddz/font/ddz_win.png",
+			"type": "image",
+			"name": "ddz_win_png"
+		},
+		{
+			"url": "skins/module/ddz/font/ddz_win.webp",
+			"type": "bin",
+			"name": "ddz_win_webp"
+		},
+		{
+			"url": "skins/module/ddz/img/bg/ddz_bg_1.png",
+			"type": "image",
+			"name": "ddz_bg_1_png"
+		},
+		{
+			"url": "skins/module/ddz/img/bg/ddz_bg_2.png",
+			"type": "image",
+			"name": "ddz_bg_2_png"
+		},
+		{
+			"url": "skins/module/ddz/img/bg/ddz_bg_boy.png",
+			"type": "image",
+			"name": "ddz_bg_boy_png"
+		},
+		{
+			"url": "skins/module/ddz/img/bg/ddz_bg_girl.png",
+			"type": "image",
+			"name": "ddz_bg_girl_png"
+		},
+		{
+			"url": "skins/module/ddz/img/bg/ddz_result_lose_1.png",
+			"type": "image",
+			"name": "ddz_result_lose_1_png"
+		},
+		{
+			"url": "skins/module/ddz/img/bg/ddz_result_win_1.png",
+			"type": "image",
+			"name": "ddz_result_win_1_png"
+		},
+		{
+			"url": "skins/module/ddz/dragon/qkl_ddz_xiaozhi_tex.png",
+			"type": "image",
+			"name": "qkl_ddz_xiaozhi_tex_png"
+		},
+		{
+			"url": "skins/module/ddz/dragon/qkl_ddz_xiaoyan_tex.png",
+			"type": "image",
+			"name": "qkl_ddz_xiaoyan_tex_png"
+		},
+		{
+			"url": "skins/module/ddz/dragon/qkl_ddz_xiaozhi_ske.json",
+			"type": "json",
+			"name": "qkl_ddz_xiaozhi_ske_json"
+		},
+		{
+			"url": "skins/module/ddz/dragon/qkl_ddz_xiaoyan_tex.json",
+			"type": "json",
+			"name": "qkl_ddz_xiaoyan_tex_json"
+		},
+		{
+			"url": "skins/module/ddz/dragon/qkl_ddz_xiaozhi_tex.json",
+			"type": "json",
+			"name": "qkl_ddz_xiaozhi_tex_json"
+		},
+		{
+			"url": "skins/module/ddz/dragon/qkl_ddz_xiaoyan_ske.json",
+			"type": "json",
+			"name": "qkl_ddz_xiaoyan_ske_json"
+		},
+		{
+			"url": "skins/module/ddz/img/ddz_img.json",
+			"type": "sheet",
+			"name": "ddz_img_json",
+			"subkeys": "dd_jingbao_1_png,dd_jingbao_2_png,ddz_bg_logo_png,ddz_bg_player1_png,ddz_bottom_1_png,ddz_bottom_2_png,ddz_bottom_3_png,ddz_bq_btn_png,ddz_btn_bg_png,ddz_btn_blue_png,ddz_btn_close_png,ddz_btn_start_png,ddz_btn_yellow_png,ddz_card_bg_png,ddz_icon1_png,ddz_icon_clock_png,ddz_icon_com_png,ddz_no_chu_png,ddz_result_lose_2_png,ddz_result_win_2_png,ddz_sjp_btn_png,ddz_talk_emoil_png,ddz_talk_line_png,ddz_talk_msg_png,ddz_talk_normal_png,ddz_talk_selected_png,ddz_tg_btn_png,ddz_timer_bg_png,ddz_tuoguanBg_png,ddz_ui0_png"
+		},
+		{
+			"url": "skins/module/ddz/img/bg/ddz_bg_5.png",
+			"type": "image",
+			"name": "ddz_bg_5_png"
+		}
+	]
+}

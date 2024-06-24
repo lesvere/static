@@ -1,0 +1,370 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<title>天游游戏</title>
+	<meta name="viewport" content="width=device-width,initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no" />
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta name="full-screen" content="true" />
+	<meta name="screen-orientation" content="portrait" />
+	<meta name="x5-fullscreen" content="true" />
+	<meta name="360-fullscreen" content="true" />
+	<meta name="renderer" content="webkit">
+	<meta name="format-detection" content="telephone=no">
+	<meta http-equiv="Access-Control-Allow-Origin" content="*">
+	<link rel="icon" href="./resource/html_images/favicon.ico" type="image/x-icon" />
+	<link rel="shortcut icon" href="./resource/html_images/favicon.ico" type="image/x-icon" />
+	<link rel="apple-touch-icon" href="./resource/html_images/touch-icon-iphone.png" />
+	<link rel="apple-touch-icon" sizes="76x76" href="./resource/html_images/touch-icon-ipad.png" />
+	<link rel="apple-touch-icon" sizes="120x120" href="./resource/html_images/touch-icon-iphone-retina.png" />
+	<link rel="apple-touch-icon" sizes="152x152" href="./resource/html_images/touch-icon-ipad-retina.png" />
+	<link rel="apple-touch-icon-precomposed" href="./resource/html_images/touch-icon-iphone.png" />
+
+	<style>  
+		@font-face {
+			font-family: 'fz_pw';
+			src:url('./resource/fonts/fz_pw.ttf') format('truetype');
+			font-weight: normal;
+			font-style: normal;
+        }
+        div {
+            font-family: "fz_pw";
+        } 
+		@font-face {
+			font-family: 'ArgentumSans_SemiBold';
+			src:url('./resource/fonts/ArgentumSans_SemiBold.otf') format('truetype');
+			font-weight: normal;
+			font-style: normal;
+        }
+        div {
+            font-family: "ArgentumSans_SemiBold";
+        }   
+		@font-face {
+			font-family: 'cond_black';
+			src:url('./resource/fonts/cond_black.otf') format('truetype');
+			font-weight: normal;
+			font-style: normal;
+        }
+        div {
+            font-family: "cond_black";
+        }   
+		html,
+		body {
+			-ms-touch-action: none;
+            padding: 0;
+            border: 0;
+            margin: 0;
+            height: 100%;
+			background: #111;			
+		}
+		#loading{
+            text-align: center;
+            margin-top:auto;
+            margin-bottom:auto;
+                -webkit-animation:circle 2s infinite linear;/*匀速 循环*/
+            }
+        @-webkit-keyframes circle{
+            0%{ transform:rotate(0deg); }
+            100%{ transform:rotate(360deg); }
+        }
+
+        #mainFrame{
+        	position: absolute;
+        	left: 0;
+        	top: 0;
+        	right: 0;
+        	bottom: 0;
+        	z-index: 99999;
+        	border: 0;
+        	width: 100%;
+        	height: 100%;
+        	display: block;
+        }
+        #mainFrame.hide{
+        	display: none;
+        }
+		
+        #loadingBg {
+                transform: rotate(0deg);
+                -ms-transform: rotate(0deg);
+                -moz-transform: rotate(0deg);
+                -webkit-transform: rotate(0deg);
+                -o-transform: rotate(0deg);
+        }
+
+        #loadingImg {
+                width: 100vw;
+                height: 100vh;
+        }
+	</style>
+</head>
+
+<body onload="ready()">
+ <div id="loadingBg" style="margin: auto; position: absolute;pointer-events:none;">
+    <img id="loadingImg" style="position: absolute" src="resource/html_images/gamehall_loadingBg_dark.jpg">
+ </div>
+<div id="containerDiv" style="margin: auto;width: 100%;height: 100%;" class="egret-player" data-entry-class="Main" data-orientation="landscape" data-scale-mode="showAll" data-frame-rate="30"
+data-content-width="1280" data-content-height="720" data-show-paint-rect="false" data-multi-fingered="2" data-show-fps="false"
+data-show-log="false" data-show-fps-style="x:0,y:0,size:12,textColor:0xffffff,bgAlpha:0.9">
+</div>
+<div id="loadingDiv" style="position:absolute;top: 50%;left: 50%; transform: translate(-50%, -50%);">
+<img id="loading" src="resource/html_images/loading.png" />
+</div>
+<div id="no_canvasTip" style="margin:auto;position:absolute;width: 100%;height: 100%;top: 0;left: 0;display:none">
+<p style="color: #FFFFFF;font-size: 26px;text-align: center;">您的当前浏览器无法打开该游戏！</p>
+<p style="color: #FFFFFF;font-size: 26px;text-align: center;">如果您使用的是IE浏览器，请<span style="color: red">更换</span>浏览器</p>
+<p style="color: #FFFFFF;font-size: 26px;text-align: center;">如果您使用的是QQ浏览器、360浏览器、猎豹浏览器等浏览器，请切换至<span style="color: red">极速模式</span>。</p>
+<br>
+<p style="color: #FFFFFF;font-size: 26px;text-align: center;">如果以上方法仍无法解决，请下载<span style="color: red">谷歌浏览器</span>，然后重试！</p>
+</div>
+<div id="no_egretTip" style="margin:auto;position:absolute;width: 100%;height: 100%;top: 0;left: 0;display:none">
+<p style="color: #FFFFFF;font-size: 26px;text-align: center;">资源下载失败，请刷新后重试 :（</p>
+</div>
+<iframe id="mainFrame" class="hide"></iframe>
+
+<script>
+
+					 var version = "20220407";
+					 var platform = "wb";
+					 var uid = "";
+					 var userinfo = "";
+					 function setUID(u) {
+						 uid = u;
+					 }
+
+					 function setUserInfo(o) {
+						 userinfo = o;
+					 }
+
+					 var frame = document.getElementById('mainFrame');
+
+					 frame.onload = function () {     							//等待iframe加载完成后，发送数据给iframe
+						 frame.contentWindow.postMessage(userinfo, '*');		//userinfo就是要发给laya的参数
+					 };
+
+					 window.addEventListener('message', function (event) {		//监听laya发过来的关闭iframe事件
+						 if (event.data == "closeFrame") {
+							 closeFrame();
+						 }else if(event.data == "login_failed_x")
+						 {
+							closeFrame();
+							Main.login_failed_x();
+						 }
+					 }, false);
+
+					 var soundManager, originVolume;
+					 function setFrameUrl(url, sound, volume) {
+						 frame.src = url;
+						 frame.classList.remove('hide');
+						 soundManager = sound;
+						 originVolume = volume;
+					 }
+					 function closeFrame() {
+						 frame.classList.add('hide');
+						 frame.src = "";
+						 soundManager.volume = originVolume;
+					 }
+
+					 function ready() {
+						 var nod = document.createElement("Canvas"); nod.getContext
+						 if (nod.getContext) {
+							 if(IEVersion() == -1)
+							 {
+								start();
+							 }else
+							 {
+								 var d = document.getElementById("no_canvasTip");
+								 if (d) d.style.display = "block";
+								 libsReady();
+							 }
+						 } else {
+							 var d = document.getElementById("no_canvasTip");
+							 if (d) d.style.display = "block";
+							 libsReady();
+						 }
+					 }
+
+					 var loadScript = function (list, callback) {
+						 var loaded = 0;
+						 for(var i = 0 ;i<list.length;i++)
+						 {
+							 loadSingleScript(list[i], function () {
+								 loaded++;
+								 if (loaded >= list.length) {
+									 callback();
+								 }
+							 })
+						 }
+					 };
+
+					function IEVersion() {
+								var userAgent = navigator.userAgent; //取得浏览器的userAgent字符串  
+								var isIE = userAgent.indexOf("compatible") > -1 && userAgent.indexOf("MSIE") > -1; //判断是否IE<11浏览器  
+								var isEdge = userAgent.indexOf("Edge") > -1 && !isIE; //判断是否IE的Edge浏览器  
+								var isIE11 = userAgent.indexOf('Trident') > -1 && userAgent.indexOf("rv:11.0") > -1;
+								if(isIE) {
+									var reIE = new RegExp("MSIE (\\d+\\.\\d+);");
+									reIE.test(userAgent);
+									var fIEVersion = parseFloat(RegExp["$1"]);
+									if(fIEVersion == 7) {
+										return 7;
+									} else if(fIEVersion == 8) {
+										return 8;
+									} else if(fIEVersion == 9) {
+										return 9;
+									} else if(fIEVersion == 10) {
+										return 10;
+									} else {
+										return 6;//IE版本<=7
+									}   
+								} else if(isEdge) {
+									return  -1;
+								} else if(isIE11) {
+									return -1; //IE11  
+								}else{
+									return -1;//不是ie浏览器
+								}
+							}
+
+					 var loadSingleScript = function (src, callback) {
+						 var s = document.createElement('script');
+						 s.async = false;
+						 s.src = src;
+						 s.addEventListener('load', function () {
+							 s.parentNode.removeChild(s);
+							 s.removeEventListener('load', arguments.callee, false);
+							 callback();
+						 }, false);
+						 document.body.appendChild(s);
+					 };
+					 function start() {
+						 var xhr = new XMLHttpRequest();
+						 xhr.open('GET', './manifest.json', true);
+						 xhr.addEventListener("load", function () {
+							 var manifest = JSON.parse(xhr.response);
+							 var list = manifest.initial.concat(manifest.game);
+							 loadScript(list, function () {
+								 /**
+								 * {
+								 * "renderMode":, //Engine rendering mode, "canvas" or "webgl"
+								 * "audioType": 0 //Use the audio type, 0: default, 2: web audio, 3: audio
+								 * "antialias": //Whether the anti-aliasing is enabled in WebGL mode, true: on, false: off, defaults to false
+								 * "calculateCanvasScaleFactor": //a function return canvas scale factor
+								 * }
+								 **/
+								 egret.runEgret({
+									 renderMode: "webgl", audioType: 0, calculateCanvasScaleFactor: function (context) {
+										 var backingStore = context.backingStorePixelRatio ||
+											 context.webkitBackingStorePixelRatio ||
+											 context.mozBackingStorePixelRatio ||
+											 context.msBackingStorePixelRatio ||
+											 context.oBackingStorePixelRatio ||
+											 context.backingStorePixelRatio || 1;
+										 return (window.devicePixelRatio || 1) / backingStore;
+									 }
+								 });
+							 });
+						 });
+						 xhr.send(null);
+					 }
+
+
+					 function systemType() {
+						 var ua = window.navigator.userAgent.toLowerCase();
+						 var microStr = "" + ua.match(/MicroMessenger/i);
+						 if (("" + ua.match(/windows nt/i)) == "windows nt") {
+							 return "windows";
+						 } else if (("" + ua.match(/iphone/i)) == "iphone") {
+							 return "iphone";
+						 } else if (("" + ua.match(/android/i)) == "android") {
+							 return "android";
+						 } else if (("" + ua.match(/ipad/i)) == "ipad") {
+							 return "ipad";
+						 } else if (("" + ua.match(/linux/i)) == "linux") {
+							 return "linux";
+						 } else if (("" + ua.match(/mac/i)) == "mac") {
+							 return "mac";
+						 } else if (("" + ua.match(/ucbrower/i)) == "ucbrower") {
+							 return "ucbrower";
+						 } else if (("" + ua.match(/micromessenger/i)) == "micromessenger") {
+							 return "micromessenger";
+						 } else {
+							 return "undefine"
+						 }
+					 }
+
+
+					 function removeLoad() {
+						 document.getElementById("loadingDiv").style.display = "none";
+						 document.getElementById("loadingBg").style.display = "none";
+					 }
+
+					 // 获取在微信中，舞台的高度
+					 function getStageHeight() {
+						 var vh = window.innerHeight * window.devicePixelRatio;
+						 var vw = window.innerWidth * window.devicePixelRatio;
+						 if (vh > vw) {
+							 return ((1280 / (vh / vw)));
+						 } else {
+							 return ((1280 / (vw / vh)));
+						 }
+					 }
+
+					 function GetResVesion() {
+						 return version;
+					 }
+					 function GetPlatform() {
+						 return platform;
+					 }
+
+					 function libsReady() {
+						 removeLoad();
+					 }
+					 function GetRequest() {
+						 var url = location.search; //获取url中"?"符后的字串 
+						 var theRequest = new Object();
+						 if (url.indexOf("?") != -1) {
+							 var str = url.substr(1);
+							 strs = str.split("&");
+							 for (var i = 0; i < strs.length; i++) {
+								 theRequest[strs[i].split("=")[0]] = unescape(strs[i].split("=")[1]);
+							 }
+						 }
+						 return theRequest;
+					 }
+
+
+					 function refresh() {
+						 window.location.reload();
+					 }
+
+					 var AppFacade;
+
+					 function backhome() {
+						 if (AppFacade) {
+							 if(AppFacade.getInstance().view.mediatorMap.LobbyMediator.gameView.currentRoomView)
+							 AppFacade.getInstance().view.mediatorMap.LobbyMediator.gameView.currentRoomView.back();
+						 }
+						 else {
+							 refresh();
+						 }
+
+					 }
+
+					 function bblogout(){
+						 AppTalking.logout();
+					 }
+
+
+					 alert = function () { }
+					 window.onerror = function (errorMessage, scriptURI, lineNumber, columnNumber, errorObj) {
+						 var str = "平台:" + platform + "用户ID:" + uid + "错误信息:" + errorMessage + "出错文件:" + scriptURI + "出错行号:" + lineNumber + "出错列号:" + columnNumber + "错误详情:" + errorObj;
+						 var formData = new FormData();
+						 formData.append("logs", str);
+					 }
+
+</script>
+</body>
+
+</html>

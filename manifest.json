@@ -1,0 +1,23 @@
+{
+	"initial": [
+		"js/egret.min_596acb3e.js",
+		"js/egret.web.min_c3b3d04e.js",
+		"js/eui.min_e8f47f49.js",
+		"js/res.min_88dd41cb.js",
+		"js/tween.min_6c5a88f9.js",
+		"js/game.min_16249d0f.js",
+		"js/socket.min_8b4cb752.js",
+		"js/dragonBones.min_6252b9c4.js",
+		"js/promise.min_83a6a5d.js",
+		"js/puremvc.min_e871dfde.js",
+		"js/starlingSwf.min_807c07d1.js",
+		"js/particle.min_d717ba80.js",
+		"js/cryptojs.min_378eb3f5.js",
+		"js/greensock.min_db481fba.js",
+		"js/mouse.min_41b78ac7.js"
+	],
+	"game": [
+		"js/default.thm_876ffbc4.js",
+		"js/main.min_536c7b65.js"
+	]
+}
